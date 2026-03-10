@@ -80,6 +80,137 @@
     </div>
     
     
+    <section class="sentiment-section">
+        <h2>📊 行情与舆情分析</h2>
+        <div class="sentiment-overview">
+            <div class="change-box trend-neutral">
+                <span class="change-label">涨跌幅度</span>
+                <span class="change-value">+0.00%</span>
+            </div>
+            <div class="sentiment-box">
+                <span class="sentiment-label">市场情绪</span>
+                <span class="sentiment-value">偏多</span>
+            </div>
+            <div class="factors-box">
+                <span class="factors-label">核心因素</span>
+                <div class="factors-list"></div>
+            </div>
+        </div>
+        <div class="reasoning-box">
+            <h4>📋 走势分析</h4>
+            <p>板块走势偏弱。市场情绪谨慎。建议关注后续资金流向和政策面变化。</p>
+        </div>
+        <div class="latest-news">
+            <h4>📰 相关资讯</h4>
+            <div class="news-item-small"><span class="news-source-small">财联社</span><span class="news-title-small">【焕新极氪007GT预计价格上调？极氪汽车：暂未确定】针对焕新极氪007GT预计...</span><span class="news-impact impact-positive">利好</span></div><div class="news-item-small"><span class="news-source-small">财联社</span><span class="news-title-small">钻石散热+商业航天+人形机器人，这家公司具备MPCVD装备与工艺技术，在芯片散热...</span><span class="news-impact impact-neutral">中性</span></div><div class="news-item-small"><span class="news-source-small">财联社</span><span class="news-title-small">【模拟芯片概念震荡拉升 上海贝岭涨停】财联社3月10日电，模拟芯片概念盘中震荡拉...</span><span class="news-impact impact-positive">利好</span></div>
+        </div>
+    </section>
+    <style>
+    .sentiment-section {
+        background: #1a1a1a;
+        border-radius: 12px;
+        padding: 20px;
+        margin: 20px 0;
+        border: 1px solid #333;
+    }
+    .sentiment-section h2 {
+        color: #fff;
+        font-size: 1.3rem;
+        margin-bottom: 16px;
+        border-bottom: 2px solid #4ade80;
+        padding-bottom: 8px;
+    }
+    .sentiment-overview {
+        display: flex;
+        gap: 16px;
+        margin-bottom: 16px;
+        flex-wrap: wrap;
+    }
+    .change-box, .sentiment-box, .factors-box {
+        background: #252525;
+        border-radius: 8px;
+        padding: 12px 16px;
+        flex: 1;
+        min-width: 120px;
+    }
+    .change-label, .sentiment-label, .factors-label {
+        display: block;
+        color: #888;
+        font-size: 0.85rem;
+        margin-bottom: 4px;
+    }
+    .change-value {
+        font-size: 1.5rem;
+        font-weight: 700;
+    }
+    .sentiment-value {
+        font-size: 1.2rem;
+        color: #60a5fa;
+    }
+    .trend-up { color: #f87171; }
+    .trend-down { color: #4ade80; }
+    .trend-neutral { color: #fbbf24; }
+    .factor-tag {
+        display: inline-block;
+        background: #333;
+        color: #aaa;
+        padding: 4px 10px;
+        border-radius: 12px;
+        font-size: 0.8rem;
+        margin: 2px;
+    }
+    .reasoning-box {
+        background: #252525;
+        border-radius: 8px;
+        padding: 16px;
+        margin-bottom: 16px;
+    }
+    .reasoning-box h4 {
+        color: #4ade80;
+        margin-bottom: 8px;
+    }
+    .reasoning-box p {
+        color: #ccc;
+        line-height: 1.8;
+        margin: 0;
+    }
+    .latest-news {
+        background: #1f1f1f;
+        border-radius: 8px;
+        padding: 16px;
+        border-left: 3px solid #60a5fa;
+    }
+    .latest-news h4 {
+        color: #60a5fa;
+        margin-bottom: 12px;
+    }
+    .news-item-small {
+        display: flex;
+        gap: 10px;
+        padding: 8px 0;
+        border-bottom: 1px solid #333;
+        font-size: 0.9rem;
+    }
+    .news-item-small:last-child { border-bottom: none; }
+    .news-source-small {
+        color: #888;
+        min-width: 60px;
+        font-size: 0.8rem;
+    }
+    .news-title-small {
+        flex: 1;
+        color: #bbb;
+    }
+    .news-impact {
+        font-size: 0.75rem;
+        padding: 2px 8px;
+        border-radius: 10px;
+    }
+    .impact-positive { background: #1a472a; color: #4ade80; }
+    .impact-negative { background: #5a1f1f; color: #f87171; }
+    .impact-neutral { background: #3a3a3a; color: #bbb; }
+    </style>
+    
     
     <section>
         <h2>📈 成分股行情</h2>
@@ -123,7 +254,7 @@
     
     <div class="footer">
         <p>⚠️ 风险提示：以上内容基于公开数据整理，不构成投资建议。</p>
-        <p>数据更新时间：2026-03-10 12:22</p>
+        <p>数据更新时间：2026-03-10 12:28</p>
     </div>
 </body>
 </html>
