@@ -1,0 +1,61 @@
+{
+  "industry": "低空经济",
+  "date": "2026-03-11",
+  "market_data": {
+    "error": "行情获取失败: '日k'"
+  },
+  "sentiment": {
+    "news_count": 6,
+    "positive": 2,
+    "negative": 0,
+    "neutral": 4,
+    "sentiment_score": 33.33,
+    "sentiment_label": "偏多",
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "鲲鹏“进化记”低空经济这样“起飞” \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t#江苏东南大学鲲鹏3号即将试飞#【鲲鹏“进化记”低空经济这样“起飞”】2026年政府工作报告明确提出“打造低空经济等新兴支柱产业”...\n\t\t\t\t\t新华日报   3小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\t法治护航，低空经济起飞正当时 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t法治护航，低空经济起飞正当时...\n\t\t\t\t\t经济日报   5小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t从“新增长引擎”到“新兴支柱产业”，低空经济战略升维",
+        "url": "https://k.sina.com.cn/article_3881380517_me7592aa503301r7mi.html",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "制造业强基，江西空中未来科技创新集团布局低空经济赛道 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t制造业强基，江西空中未来科技创新集团布局低空经济赛道。#让企业家坐C位##天下英雄城南昌#...\n\t\t\t\t\t南昌广播电视台   7小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t区域经济新赛道|拥有“航空底蕴”的TA全新布局，长宁“串珠成链”为“低空经济”赋能提速",
+        "url": "https://cj.sina.com.cn/articles/view/3274822530/mc331d38203301jwl8",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "周曙光代表：法治护航低空经济发展",
+        "url": "https://finance.sina.com.cn/jjxw/2026-03-10/doc-inhqpnue6085830.shtml",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "横店无人机3分钟精准投送物资，低空经济赋能影视产业 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t#新质生产力如何焕新电影产业#本期 “科技赋能・光影筑梦” 系列报道，带大家沉浸式体验横店 “全域服务 + 数字科技” 的影视工业新生态...\n\t\t\t\t\t中国电影报道   2小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t首疆航空低调启航 袁道红擘画低空经济新蓝图",
+        "url": "https://t.cj.sina.com.cn/articles/view/1261788454/m4b355d2603301qjno",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "两会建言｜全国政协委员吕红兵：建议加快低空经济立法节奏，明确低空空域权属",
+        "url": "https://cj.sina.com.cn/articles/view/1650111241/625ab30902001fuz0",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "causal_analysis": "低空经济板块 (+0.00%) - 完整因果推导\n\n第一步：政策利好引发关注\n近期政策利好等因素引发市场对该行业的关注。\n\n第二步：资金开始布局\n机构资金开始关注该板块，逐步建立仓位。\n\n第三步：市场情绪升温\n随着相关新闻增多，市场对该行业的情绪逐步升温。\n\n第四步：估值逻辑重塑\n市场对该行业的估值逻辑发生变化，从悲观转向乐观。\n\n第五步：资金持续流入\n在趋势确认后，更多资金跟风买入，推动板块下跌。\n\n第六步：板块最终下跌0.00%\n在多重因素共同作用下，板块最终下跌0.00%。",
+  "risks": [
+    "市场风险"
+  ]
+}

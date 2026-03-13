@@ -1,0 +1,40 @@
+{
+  "industry": "生物医药",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: index 0 is out of bounds for axis 0 with size 0"
+  },
+  "sentiment": {
+    "news_count": 2,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 1,
+    "sentiment_score": 50.0,
+    "sentiment_label": "偏多",
+    "key_events": [
+      "业绩发布"
+    ],
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "科创生物医药ETF（588250）涨3.27%，成交额657.54万元\n\t\t\t\t\t3月10日，鹏华上证科创板生物医药ETF（588250）收盘涨3.27%，成交额657.54万元。规模方面，截止3月9日，科创生物医药ETF（588250）最新份额为2.52亿份，最新规模为2.62亿元...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t滚动消息\n                        \t\t\t\t\t\n                        \t\t\t\t51分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t生物医药ETF华安（159508）涨1.93%，成交额216.16万元\n\t\t\t\t\t3月10日，华安国证生物医药ETF（159508）收盘涨1.93%，成交额216.16万元。生物医药ETF华安（159508）业绩比较基准为国证生物医药指数收益率...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t滚动消息\n                        \t\t\t\t\t\n                        \t\t\t\t52分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t生物医药ETF（159859）涨2.14%，成交额1.12亿元\n\t\t\t\t\t3月10日，天弘国证生物医药ETF（159859）收盘涨2.14%，成交额1.12亿元。生物医药ETF（159859）业绩比较基准为国证生物医药指数收益率...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t资讯动态\n                        \t\t\t\t\t\n                        \t\t\t\t54分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t生物医药ETF汇添富（159839）涨2.02%，成交额2516.90万元\n\t\t\t\t\t3月10日，汇添富国证生物医药ETF（159839）收盘涨2.02%，成交额2516.90万元。规模方面，截止3月9日，生物医药ETF汇添富（159839）最新份额为24.85亿份，最新规模为8.60亿元...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t滚动消息\n                        \t\t\t\t\t\n                        \t\t\t\t54分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t生物医药ETF（512290）涨2.20%，成交额7370.15万元\n\t\t\t\t\t3月10日，国泰中证生物医药ETF（512290）收盘涨2.20%，成交额7370.15万元。规模方面，截止3月9日，生物医药ETF（512290）最新份额为38.59亿份，最新规模为36.71亿元...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t新闻眼\n                        \t\t\t\t\t\n                        \t\t\t\t55分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t药物受理最新动态：上海君实生物医药科技股份有限公司特瑞普利单抗注射液（皮下注射）新药申请获受理\n\t\t\t\t\t国家药品监督管理局药品审评中心数据显示，2026年3月10日，上海君实生物医药科技股份有限公司的特瑞普利单抗注射液（皮下注射）申请已获受理，受理号为CXSS2600041...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t实时速报\n                        \t\t\t\t\t\n                        \t\t\t\t1小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t创新药ETF建信(159835)所跟踪指数涨超3%，国产创新药BD出海持续活跃，生物医药行业战略地位进一步提升\n\t\t\t\t\t国家层面持续发力打造生物医药等新兴支柱产业，在2026年重要报告中，生物医药首次被明确提升至新兴支柱产业定位，与集成电路、航空航天、低空经济等重点领域并列，标志着行业战略地位实现历史性升格...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t界面新闻\n                        \t\t\t\t\t\n                        \t\t\t\t2小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t生物医药定位为新兴支柱产业，科创创新药ETF、恒生创新药ETF、港股通创新药ETF、港股创新药ETF大涨",
+        "url": "https://k.sina.com.cn/article_5953740931_162dee08306702tfmc.html",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "生物医药ETF华安（159508）涨1.80%，半日成交额124.55万元",
+        "url": "https://k.sina.com.cn/article_5952915720_162d2490806703g8li.html",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。主要关注创新药等因素。近期业绩预期向好。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "业绩不确定性"
+  ]
+}

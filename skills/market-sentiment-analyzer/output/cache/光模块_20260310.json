@@ -1,0 +1,48 @@
+{
+  "industry": "光模块",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: '日k'"
+  },
+  "sentiment": {
+    "news_count": 6,
+    "positive": 3,
+    "negative": 0,
+    "neutral": 3,
+    "sentiment_score": 50.0,
+    "sentiment_label": "偏多",
+    "key_events": [
+      "光模块"
+    ],
+    "latest_news": [
+      {
+        "source": "财联社",
+        "title": "3月10日连板股分析：连板股晋级率不足二成 算力硬件股大面积反弹",
+        "url": "https://api3.cls.cn/share/article/2308416?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【3月10日连板股分析：连板股晋级率不足二成 算力硬件股大面积反弹】今日共56股涨停，连板股总数6只，其中三连板及以上个股2只，上一交易日共11只连板股，连板股晋级率18.18%（不含ST股、退市股）...",
+        "impact": "利好"
+      },
+      {
+        "source": "财联社",
+        "title": "今日投资舆情热点",
+        "url": "https://api3.cls.cn/share/article/2308408?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【今日投资舆情热点】\n1）光通信：AOI宣布，收到2亿美元1.6T首批量产订单，标志着新一代高速光互联产品正式进入规模化商用阶段。\n2）PCB：MGC宣布，自4月1日起覆铜板、预浸料及背胶铜箔的价格统...",
+        "impact": "利好"
+      },
+      {
+        "source": "财联社",
+        "title": "美国银行：预计光互连市场规模到2030年有望增长四倍至730亿美元",
+        "url": "https://api3.cls.cn/share/article/2308402?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【美国银行：预计光互连市场规模到2030年有望增长四倍至730亿美元】财联社3月10日电，美国银行在本周一发布的研报中指出，随着人工智能工作负载对传统铜导体的性能提出更高要求，光互连市场规模到2030...",
+        "impact": "利好"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "市场风险"
+  ]
+}

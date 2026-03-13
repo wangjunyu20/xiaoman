@@ -1,0 +1,41 @@
+行业研究报告测试报告
+============================================================
+测试时间: 2026-03-09 10:54:29
+测试模式: 快速
+============================================================
+
+[FAIL] 模块导入测试 (0.10s)
+  Error: 'TestResult' object has no attribute 'log'
+
+[FAIL] 目录结构测试 (0.00s)
+  Error: 'TestResult' object has no attribute 'log'
+
+[FAIL] 新闻抓取类测试 (0.36s)
+  Error: 'TestResult' object has no attribute 'log'
+
+[FAIL] 新闻质量评分测试 (0.00s)
+  Error: 'TestResult' object has no attribute 'log'
+
+[FAIL] 行业配置测试 (0.00s)
+  Error: 'TestResult' object has no attribute 'log'
+
+[FAIL] 输出目录测试 (0.00s)
+  Error: 输出目录不可写: 'TestResult' object has no attribute 'log'
+
+[FAIL] 模板文件测试 (0.00s)
+  Error: 'TestResult' object has no attribute 'log'
+
+[FAIL] 验证脚本测试 (0.02s)
+  Error: 验证脚本执行失败: 'TestResult' object has no attribute 'log'
+
+[FAIL] 新闻过滤功能测试 (0.00s)
+  Error: 'TestResult' object has no attribute 'log'
+
+[FAIL] 自检命令测试 (0.00s)
+  Error: 'TestResult' object has no attribute 'log'
+
+[FAIL] 报告质量指标测试 (0.00s)
+  Error: 'TestResult' object has no attribute 'log'
+
+============================================================
+总计: 11 | 通过: 0 | 失败: 11

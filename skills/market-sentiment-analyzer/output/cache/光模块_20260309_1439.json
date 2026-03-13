@@ -1,0 +1,121 @@
+{
+  "industry": "光模块",
+  "date": "2026-03-09 14:39",
+  "analysis_framework": "COT思维链（数据采集→多维分析→关联分析→归因分析→结论生成）",
+  "market_data": {
+    "concept": "光模块",
+    "leader_stocks": [
+      "中际旭创",
+      "天孚通信",
+      "新易盛"
+    ],
+    "change_pct": -4.2,
+    "trend": "下跌",
+    "volume": 564632,
+    "amount": 1218.71,
+    "rsi": 41.61,
+    "technical_signal": "震荡",
+    "stocks_detail": [
+      {
+        "name": "中际旭创",
+        "code": "300308",
+        "current": 527.24,
+        "last_close": 545.48,
+        "open": 520.1,
+        "high": 293602.0,
+        "low": 134239.0,
+        "change_pct": -3.34,
+        "volume": 159325,
+        "amount": 527.2,
+        "pe": 54.25,
+        "pb": 19.53,
+        "market_cap": 5828.64
+      },
+      {
+        "name": "天孚通信",
+        "code": "300394",
+        "current": 307.22,
+        "last_close": 322.88,
+        "open": 306.75,
+        "high": 354006.0,
+        "low": 182097.0,
+        "change_pct": -4.85,
+        "volume": 171886,
+        "amount": 307.21,
+        "pe": 130.34,
+        "pb": 48.96,
+        "market_cap": 2383.57
+      },
+      {
+        "name": "新易盛",
+        "code": "300502",
+        "current": 384.3,
+        "last_close": 402.0,
+        "open": 380.0,
+        "high": 416175.0,
+        "low": 182748.0,
+        "change_pct": -4.4,
+        "volume": 233421,
+        "amount": 384.3,
+        "pe": 50.81,
+        "pb": 26.3,
+        "market_cap": 3402.67
+      }
+    ],
+    "source": "腾讯财经"
+  },
+  "sentiment": {
+    "news_count": 1,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "sentiment_score": 0,
+    "sentiment_label": "中性",
+    "key_factors": [],
+    "capital_flow": "主力资金净流出",
+    "latest_news": [
+      {
+        "source": "财联社",
+        "title": "【主力资金监控：电子板块净流出超159亿】财联社3月9日电，财联社星矿数据显示，今日主力资金净流入计算机、汽车整车、煤炭采选等板块，净流出电子、通信、机械设备等板块，其中电子板块净流出超159亿元。个股方面，比亚迪资金净买入15.22亿元位居首位，阳光电源、中国长城、汉得信息主力资金净流入居前；中际旭创遭净卖出超16亿元位居首位，工业富联、紫金矿业、天孚通信主力资金净流出额居前。",
+        "url": "https://www.cls.cn/telegraph/2306996",
+        "publish_time": "2026-03-09 14:20",
+        "summary": "【主力资金监控：电子板块净流出超159亿】财联社3月9日电，财联社星矿数据显示，今日主力资金净流入计算机、汽车整车、煤炭采选等板块，净流出电子、通信、机械设备等板块，其中电子板块净流出超159亿元。个...",
+        "impact": "中性"
+      }
+    ]
+  },
+  "market_environment": {
+    "environment": "未知",
+    "sh_index_change": 0
+  },
+  "relative_strength": {
+    "relative_change": -4.2,
+    "strength": "弱于大盘",
+    "outperform": false
+  },
+  "correlation": {
+    "price_sentiment_consistent": false,
+    "correlation_strength": "弱"
+  },
+  "attribution": [
+    {
+      "factor": "资金流向",
+      "weight": 30,
+      "description": "主力资金净流出，市场抛压较大"
+    }
+  ],
+  "conclusion": {
+    "trend_qualitative": "明显下跌",
+    "core_reasoning": "下跌4.20%。主要因主力资金净流出，市场抛压较大。市场情绪偏空，资金流出明显。",
+    "risks": [
+      "市场系统性风险"
+    ],
+    "outlook": {
+      "short_term": "行情与情绪背离，短期或有修正",
+      "medium_term": "中期维持震荡，精选个股为主"
+    }
+  },
+  "data_sources": [
+    "腾讯财经"
+  ]
+}

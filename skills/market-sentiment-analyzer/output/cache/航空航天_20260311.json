@@ -1,0 +1,45 @@
+{
+  "industry": "航空航天",
+  "date": "2026-03-11",
+  "market_data": {
+    "error": "行情获取失败: index 0 is out of bounds for axis 0 with size 0"
+  },
+  "sentiment": {
+    "news_count": 3,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 2,
+    "sentiment_score": 33.33,
+    "sentiment_label": "偏多",
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "海格通信：业务主要覆盖“无线通信、北斗导航、航空航天、数智生态”四大领域及创新业务",
+        "url": "https://cj.sina.com.cn/articles/view/2311077472/89c03e6002002i4js",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "霍尼韦尔航空航天独立倒计时，拟发160亿美元投资级债券\n\t\t\t\t\t霍尼韦尔航空航天公司已启动其首次美国投资级债券发行，目标规模达160亿美元，旨在为计划中的业务分拆提供资金支持。该人士进一步补充称，最长期限债券的初始价格指引设定为较同期美国国债收益率高出最多1.35个百分点...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t智通财经网\n                        \t\t\t\t\t\n                        \t\t\t\t2小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t商业航天将迎来密集发射，航空航天ETF（159227）迎布局窗口，已连续3日净流入",
+        "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-03-10/doc-inhqpnui9889257.shtml",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "霍尼韦尔航空航天公司启动规模可能达160亿美元的债券发售。\n\t\t\t\t\t霍尼韦尔航空航天公司启动规模可能达160亿美元的债券发售...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t行业动态\n                        \t\t\t\t\t\n                        \t\t\t\t4小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t精准赋能航空航天｜以3D打印实力，破解轻量化与高精度双重难题",
+        "url": "https://k.sina.com.cn/article_5953466437_162dab0450670a6eue.html",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "causal_analysis": "航空航天板块 (+0.00%) - 完整因果推导\n\n第一步：行业基本面变化引发关注\n近期行业基本面变化等因素引发市场对该行业的关注。\n\n第二步：资金开始布局\n机构资金开始关注该板块，逐步建立仓位。\n\n第三步：市场情绪升温\n随着相关新闻增多，市场对该行业的情绪逐步升温。\n\n第四步：估值逻辑重塑\n市场对该行业的估值逻辑发生变化，从悲观转向乐观。\n\n第五步：资金持续流入\n在趋势确认后，更多资金跟风买入，推动板块下跌。\n\n第六步：板块最终下跌0.00%\n在多重因素共同作用下，板块最终下跌0.00%。",
+  "risks": [
+    "市场风险"
+  ]
+}

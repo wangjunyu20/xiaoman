@@ -1,0 +1,48 @@
+{
+  "industry": "AI应用",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: '日k'"
+  },
+  "sentiment": {
+    "news_count": 4,
+    "positive": 3,
+    "negative": 0,
+    "neutral": 1,
+    "sentiment_score": 75.0,
+    "sentiment_label": "偏多",
+    "key_events": [
+      "业绩发布"
+    ],
+    "latest_news": [
+      {
+        "source": "财联社",
+        "title": "美国银行：预计光互连市场规模到2030年有望增长四倍至730亿美元",
+        "url": "https://api3.cls.cn/share/article/2308402?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【美国银行：预计光互连市场规模到2030年有望增长四倍至730亿美元】财联社3月10日电，美国银行在本周一发布的研报中指出，随着人工智能工作负载对传统铜导体的性能提出更高要求，光互连市场规模到2030...",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "全国政协委员江浩然：以标准与责任明晰AI手机金融应用安全路径 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t【全国政协委员江浩然：以标准与责任明晰AI手机金融应用安全路径】#2026年全国两会# 期间，“#人工智能+#”与智能体生态成为发展新质生产力的关键议题，...\n\t\t\t\t\t中国经济时报   57分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t恒生科技ETF鹏华(520590)涨超2%，AI超级应用入口争夺战已全面开启\n\t\t\t\t\t消息方面，阿里云金山算力中心加速投产，基于“真武”芯片建设超大规模算力中心。AI超级应用入口争夺战已全面开启。恒生科技ETF鹏华(520590)上涨2.33%，最新价报0.88元...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t界面\n                        \t\t\t\t\t\n                        \t\t\t\t58分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tAI应用进入落地周期，成长ETF易方达涨3.21%\n\t\t\t\t\t（来源：财闻）              成长100指数聚焦电子、通信和计算机板块，在流动性平稳与产业趋势共振下展现出较强弹性...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t实时速报\n                        \t\t\t\t\t\n                        \t\t\t\t1小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tAI应用生态竞争加剧，金融科技ETF博时涨1.10%\n\t\t\t\t\t（来源：财闻）              机构认为AI竞争进入应用生态争夺阶段，算力需求从对话转向持续执行，将加速提升。截至3月10日14点5分，上证指数涨0.56%，深证成指涨1.96%，创业板指涨3.06%...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t资讯滚动\n                        \t\t\t\t\t\n                        \t\t\t\t1小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t长江证券：2026是AI应用落地之年，场景价值待重估",
+        "url": "https://t.cj.sina.com.cn/articles/view/1749604875/m6848da0b03301gtw2",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "港股AI应用股普遍走强，港股科技ETF景顺(513980)上涨2.20%，权重股腾讯控股涨超6%\n\t\t\t\t\t2026年3月10日港股高开高走，AI应用股普遍走强，智谱一度涨超13%，腾讯控股涨超6%，领涨恒生科技指数成分股，此前腾讯正式推出AI智能助手WorkBuddy，花旗将腾讯此举视为其AI发展的里程碑...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t界面\n                        \t\t\t\t\t\n                        \t\t\t\t2小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tAI应用迈向业绩兑现！港股资产深度耦合，港股科技ETF景顺(513980)一键布局AI商业化核心标的",
+        "url": "https://cj.sina.com.cn/articles/view/6192937794/17120bb4202002ob0w",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。主要关注落地、商业化等因素。近期业绩预期向好。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "业绩不确定性"
+  ]
+}

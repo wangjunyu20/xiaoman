@@ -1,0 +1,61 @@
+{
+  "industry": "光模块",
+  "date": "2026-03-11",
+  "market_data": {
+    "error": "行情获取失败: '日k'"
+  },
+  "sentiment": {
+    "news_count": 9,
+    "positive": 3,
+    "negative": 0,
+    "neutral": 6,
+    "sentiment_score": 33.33,
+    "sentiment_label": "偏多",
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "光模块爆单“引燃”华工科技，资本大佬李运德“精准”埋伏\n\t\t\t\t\tAI算力需求的大涨引爆了光模块市场，这也让华工科技光模块业务迎来“爆单”，公司股价迭创新高，11个月的时间大涨超260%。值得注意的是，低调的资本大佬李运德，早已通过旗下平台精准埋伏，斩获了数亿元浮盈...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t环球老虎财经app\n                        \t\t\t\t\t\n                        \t\t\t\t5小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t胜宏科技：具备生产高多层PCB能力，产品可支持1.6T光模块等通信技术\n\t\t\t\t\t（来源：财闻）              公司具备生产70层以上高多层PCB和8阶28层HDI的能力，产品可支持PCIe6.0、1.6T光模块等新一代前沿通信技术，满足高速通信设备的高速高频传输需求...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t新闻眼\n                        \t\t\t\t\t\n                        \t\t\t\t5小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t光通信大会临近！光模块+半导体联袂上攻，华宝基金双创龙头ETF(588330)大涨3.26%！“宁王”盈利创新高！",
+        "url": "https://finance.sina.com.cn/wm/2026-03-10/doc-inhqphnp6145029.shtml",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "1.6T光模块规模化商用启动！算力龙头猛攻，华宝基金创业板人工智能ETF(159363)涨超3%强势突破！",
+        "url": "https://cj.sina.com.cn/articles/view/6192937794/17120bb4202002obbi",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "光通信模块概念走强 长光华芯20cm涨停",
+        "url": "https://finance.sina.com.cn/roll/2026-03-10/doc-inhqnvwt6259669.shtml",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "财联社",
+        "title": "财联社3月10日电，英伟达股价涨幅扩大至2%。...",
+        "url": "https://api3.cls.cn/share/article/2308954?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "财联社3月10日电，英伟达股价涨幅扩大至2%。",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "光模块与国产芯片暴涨",
+        "url": "https://finance.sina.com.cn/wm/2026-03-10/doc-inhqpaeq0019240.shtml",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "causal_analysis": "光模块/CPO (+0.00%) - 完整因果推导\n\n第一步：AI应用落地加速\nOpenAI、谷歌等大模型持续迭代，AI应用场景快速扩展，推动算力需求增长。\n\n第二步：光模块订单持续增长\n800G/1.6T光模块需求旺盛，头部厂商订单饱满，产能持续扩张。\n\n第三步：技术迭代带来价值量提升\n从800G向1.6T升级，单端口价值量提升，行业景气度上行。\n\n第四步：国产厂商竞争力增强\n国内光模块厂商在全球市场份额提升，技术实力获得国际认可。\n\n第五步：业绩预期向好\n头部厂商发布业绩预告，收入和利润增速超预期，验证行业高景气。\n\n第六步：资金流入推动股价上涨\n机构增配光模块板块，龙头股获北向资金持续买入，板块上涨0.00%。",
+  "risks": [
+    "市场风险"
+  ]
+}

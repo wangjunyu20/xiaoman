@@ -1,0 +1,48 @@
+{
+  "industry": "低空经济",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: '日k'"
+  },
+  "sentiment": {
+    "news_count": 9,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 8,
+    "sentiment_score": 11.11,
+    "sentiment_label": "略偏多",
+    "key_events": [
+      "政策影响"
+    ],
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "全国人大代表、中创新航刘静瑜：低空经济、人形机器人进入爆发期",
+        "url": "https://t.cj.sina.com.cn/articles/view/1644119190/61ff449602002i3po",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "温州出台重磅政策组合拳 激发低空经济展翅高飞",
+        "url": "https://finance.sina.com.cn/jjxw/2026-03-10/doc-inhqnvwt6270107.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "全国人大代表吴仁彪：低空经济安全为底，淘汰赛即将来临",
+        "url": "https://finance.sina.com.cn/roll/2026-03-10/doc-inhqnrqq6290015.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。主要关注政策等因素。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "市场风险"
+  ]
+}

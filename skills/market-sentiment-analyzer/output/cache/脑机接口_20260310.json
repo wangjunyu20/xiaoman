@@ -1,0 +1,38 @@
+{
+  "industry": "脑机接口",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: index 0 is out of bounds for axis 0 with size 0"
+  },
+  "sentiment": {
+    "news_count": 2,
+    "positive": 2,
+    "negative": 0,
+    "neutral": 0,
+    "sentiment_score": 100.0,
+    "sentiment_label": "偏多",
+    "key_events": [],
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "一颗草莓的重量见证中国脑机新突破 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t#首例北脑一号植入者回北大医院复查##北脑一号植入者重获亲手做事的尊严#【一颗草莓的重量见证中国脑机新突破】日前，备受关注的全球首例“北脑一号”脑机接口植入者回到北京大学第一医院进行一周年复查...\n\t\t\t\t\t北京新闻   58分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t明东委员解读脑机接口临床新突破\n\t\t\t\t\t（来源：科技日报）#全国两会之声#【不止运动康复。明东委员解读脑机接口临床新突破】#小科跑两会# 2026全国两会，脑机接口首次写入政府工作报告...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t新闻眼\n                        \t\t\t\t\t\n                        \t\t\t\t1小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t电气创客 | 为国产燃机装上「智能运维大脑」，一位女工程师的「跨界」十年",
+        "url": "https://k.sina.com.cn/article_6351705477_m17a97558503302gawm.html",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "脑机接口应用让神经系统疾病诊疗迎来新突破 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t脑机接口是搭建大脑与外部环境特殊通讯系统，可替代、修复人体受损神经功能，是生命科学与信息科学融合前沿领域。西安医学院一附院脑机接口应用实验中心汇聚神经外科、神经内科、康复医学科、儿科等十余个科室专家力量，构建起全生命周期、多病种综合诊疗体系...\n\t\t\t\t\t西安广播电视台   1小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t马斯克脑机接口方向国内有望实现 相关概念午后拉升，麒盛科技涨超6%\n\t\t\t\t\t（来源：财闻）              马斯克的方向基本上可以在国内实现。消息面上，政府工作报告中提出，建立未来产业投入增长和风险分担机制，培育发展脑机接口等未来产业...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t资讯滚动\n                        \t\t\t\t\t\n                        \t\t\t\t1小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\t为什么司机不晕车？晕车时呕吐，竟然是大脑误以为身体中毒采取的自我保护机制 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t为什么司机不晕车。晕车时呕吐，竟然是大脑误以为身体中毒采取的自我保护机制。#微博超有用视频大赛##春节二创视频大赛##一分钟视频创作季#...\n\t\t\t\t\t冷酷至尊QueenS   3小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\t脑机接口会为医疗带来哪些可能 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t【#脑机接口会为医疗带来哪些可能#】#脑机接口首次写入政府工作报告# 全国政协委员、天津大学副校长明东表示，过去一年，脑机接口从实验室走出，不断向临床转化...\n\t\t\t\t\t环球鲜资速递   4小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t脑机接口：我们离“赛博永生”还有多远？｜跟我上两会·霁月在现场",
+        "url": "https://k.sina.com.cn/article_2183542485_m822636d503301g20k.html",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。主要关注植入等因素。近期技术突破。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "市场风险"
+  ]
+}

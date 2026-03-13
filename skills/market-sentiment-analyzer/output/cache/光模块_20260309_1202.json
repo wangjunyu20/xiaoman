@@ -1,0 +1,67 @@
+{
+  "industry": "光模块",
+  "date": "2026-03-09 12:02",
+  "analysis_framework": "COT思维链（数据采集→多维分析→关联分析→归因分析→结论生成）",
+  "market_data": {
+    "error": "新浪财经数据源待实现"
+  },
+  "sentiment": {
+    "news_count": 1,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 0,
+    "sentiment_score": 100.0,
+    "sentiment_label": "偏多",
+    "key_factors": [],
+    "capital_flow": "主力资金净流出",
+    "latest_news": [
+      {
+        "source": "财联社",
+        "title": "【主力资金监控：中际旭创净卖出超17亿】财联社3月9日电，财联社星矿数据显示，今日早盘主力资金净流入煤炭采选、石油石化、公用事业等板块，净流出电子、通信、有色金属等板块，其中电子板块净流出超172亿元。个股方面，比亚迪上涨，主力资金净买入超8.98亿元位居首位，阳光电源、宝丰能源、云赛智联获主力资金净流入居前；中际旭创遭净卖出超17亿元，紫金矿业、工业富联、新易盛资金净流出额居前。",
+        "url": "https://www.cls.cn/telegraph/2306792",
+        "publish_time": "2026-03-09 10:55",
+        "summary": "【主力资金监控：中际旭创净卖出超17亿】财联社3月9日电，财联社星矿数据显示，今日早盘主力资金净流入煤炭采选、石油石化、公用事业等板块，净流出电子、通信、有色金属等板块，其中电子板块净流出超172亿元...",
+        "impact": "利好"
+      }
+    ]
+  },
+  "market_environment": {
+    "environment": "未知",
+    "sh_index_change": 0
+  },
+  "relative_strength": {
+    "relative_change": 0,
+    "strength": "与大盘持平",
+    "outperform": false
+  },
+  "correlation": {
+    "price_sentiment_consistent": false,
+    "correlation_strength": "强"
+  },
+  "attribution": [
+    {
+      "factor": "资金流向",
+      "weight": 30,
+      "description": "主力资金净流出，市场抛压较大"
+    },
+    {
+      "factor": "市场情绪",
+      "weight": 15,
+      "description": "市场 sentiment 偏多，得分100.0"
+    }
+  ],
+  "conclusion": {
+    "trend_qualitative": "震荡整理",
+    "core_reasoning": "震荡整理。主力资金净流出，市场抛压较大；市场 sentiment 偏多，得分100.0。市场等待方向选择。",
+    "risks": [
+      "市场系统性风险"
+    ],
+    "outlook": {
+      "short_term": "行情与情绪背离，短期或有修正",
+      "medium_term": "中期趋势向好，回调可考虑布局"
+    }
+  },
+  "data_sources": [
+    "无可用数据源"
+  ]
+}

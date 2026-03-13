@@ -1,0 +1,38 @@
+{
+  "industry": "AI医疗",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: index 0 is out of bounds for axis 0 with size 0"
+  },
+  "sentiment": {
+    "news_count": 2,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 2,
+    "sentiment_score": 0.0,
+    "sentiment_label": "中性",
+    "key_events": [],
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "全国两会 AI 议起来 | 人工智能+医疗，你放心机器人给你看病吗？\n\t\t\t\t\t视频因格式不支持或者服务器或网络的问题无法加载...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t新浪新闻\n                        \t\t\t\t\t\n                        \t\t\t\t2026-03-09 22:03:00\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t镁信健康创始人兼首席执行官张小栋：加快建设AI医疗支付服务基础设施",
+        "url": "https://news.sina.com.cn/zx/gj/2026-03-10/doc-inhqnmhs6396010.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "代表委员激辩AI医疗：技术狂飙下的冷思考与热交锋",
+        "url": "https://k.sina.com.cn/article_5953190046_162d6789e06702rvps.html",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "reasoning": "板块走势震荡，多空因素交织。近期政策利好。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "市场风险"
+  ]
+}

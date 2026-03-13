@@ -1,0 +1,89 @@
+{
+  "timestamp": "20260309_105429",
+  "quick_mode": true,
+  "summary": {
+    "total": 11,
+    "passed": 0,
+    "failed": 11,
+    "total_time": 0.4846656322479248
+  },
+  "tests": [
+    {
+      "name": "模块导入测试",
+      "passed": false,
+      "duration": 0.10291814804077148,
+      "error": "'TestResult' object has no attribute 'log'",
+      "details": {}
+    },
+    {
+      "name": "目录结构测试",
+      "passed": false,
+      "duration": 4.00543212890625e-05,
+      "error": "'TestResult' object has no attribute 'log'",
+      "details": {}
+    },
+    {
+      "name": "新闻抓取类测试",
+      "passed": false,
+      "duration": 0.35760951042175293,
+      "error": "'TestResult' object has no attribute 'log'",
+      "details": {}
+    },
+    {
+      "name": "新闻质量评分测试",
+      "passed": false,
+      "duration": 8.106231689453125e-06,
+      "error": "'TestResult' object has no attribute 'log'",
+      "details": {}
+    },
+    {
+      "name": "行业配置测试",
+      "passed": false,
+      "duration": 0.0002589225769042969,
+      "error": "'TestResult' object has no attribute 'log'",
+      "details": {}
+    },
+    {
+      "name": "输出目录测试",
+      "passed": false,
+      "duration": 0.00011897087097167969,
+      "error": "输出目录不可写: 'TestResult' object has no attribute 'log'",
+      "details": {}
+    },
+    {
+      "name": "模板文件测试",
+      "passed": false,
+      "duration": 5.435943603515625e-05,
+      "error": "'TestResult' object has no attribute 'log'",
+      "details": {}
+    },
+    {
+      "name": "验证脚本测试",
+      "passed": false,
+      "duration": 0.021669387817382812,
+      "error": "验证脚本执行失败: 'TestResult' object has no attribute 'log'",
+      "details": {}
+    },
+    {
+      "name": "新闻过滤功能测试",
+      "passed": false,
+      "duration": 4.792213439941406e-05,
+      "error": "'TestResult' object has no attribute 'log'",
+      "details": {}
+    },
+    {
+      "name": "自检命令测试",
+      "passed": false,
+      "duration": 0.001935720443725586,
+      "error": "'TestResult' object has no attribute 'log'",
+      "details": {}
+    },
+    {
+      "name": "报告质量指标测试",
+      "passed": false,
+      "duration": 4.5299530029296875e-06,
+      "error": "'TestResult' object has no attribute 'log'",
+      "details": {}
+    }
+  ]
+}

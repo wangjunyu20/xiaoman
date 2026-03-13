@@ -1,0 +1,46 @@
+{
+  "industry": "芯片",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: index 0 is out of bounds for axis 0 with size 0"
+  },
+  "sentiment": {
+    "news_count": 3,
+    "positive": 2,
+    "negative": 0,
+    "neutral": 1,
+    "sentiment_score": 66.67,
+    "sentiment_label": "偏多",
+    "key_events": [],
+    "latest_news": [
+      {
+        "source": "财联社",
+        "title": "美国银行：预计光互连市场规模到2030年有望增长四倍至730亿美元",
+        "url": "https://api3.cls.cn/share/article/2308402?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【美国银行：预计光互连市场规模到2030年有望增长四倍至730亿美元】财联社3月10日电，美国银行在本周一发布的研报中指出，随着人工智能工作负载对传统铜导体的性能提出更高要求，光互连市场规模到2030...",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "长电科技汽车电子与机器人专用芯片封测厂正式启用\n\t\t\t\t\t3月10日，人民财讯消息，长电科技汽车电子（上海）有限公司当日在上海临港新区举行启用仪式。该公司为面向汽车电子与机器人应用的芯片封测工厂，占地210亩，一期规划5万平方米洁净厂房。工厂可提供封装与测试一站式服务，引入人工智能技术用于生产监控、质量分析和缺陷识别，以提升良率和运营效率，还支持客户从产品导入、认证到量产爬坡的全流程协同。 (AI生成)\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t证券时报e公司\n                        \t\t\t\t\t\n                        \t\t\t\t4分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t国内外芯片动态频出，科创芯片投资机会受关注，科创芯片ETF国泰(589100)盘中涨超2%，布局板块核心龙头发展机遇\n\t\t\t\t\t截至2026年3月10日收盘，上证科创板芯片指数(000685)强势上涨2.68%，成分股源杰科技上涨13.84%，盛科通信上涨7.74%，杰华特上涨7.28%，仕佳光子，峰岹科技等个股跟涨...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t界面新闻\n                        \t\t\t\t\t\n                        \t\t\t\t16分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t特斯拉推迟AI6芯片2nm测试，三星晶圆代工及DEEPX项目延期",
+        "url": "https://finance.sina.com.cn/jjxw/2026-03-10/doc-inhqnvwn6263703.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "财联社",
+        "title": "消息称特斯拉延迟AI6芯片在三星电子2nm节点的多项目晶圆测试",
+        "url": "https://api3.cls.cn/share/article/2308404?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【消息称特斯拉延迟AI6芯片在三星电子2nm节点的多项目晶圆测试】《科创板日报》10日讯，由于大客户特斯拉延迟AI6芯片在三星电子2nm节点的多项目晶圆 (MPW) 测试，三星晶圆代工不得不将原定今年...",
+        "impact": "中性"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。近期政策利好。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "市场风险"
+  ]
+}

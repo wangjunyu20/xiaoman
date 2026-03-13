@@ -1,0 +1,21 @@
+{
+  "industry": "CPO概念",
+  "date": "2026-03-09",
+  "market_data": {
+    "error": "行情获取失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "sentiment": {
+    "news_count": 0,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "sentiment_score": 0,
+    "sentiment_label": "中性",
+    "key_events": [],
+    "latest_news": []
+  },
+  "reasoning": "行情数据获取失败: 行情获取失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "risks": [
+    "市场风险"
+  ]
+}

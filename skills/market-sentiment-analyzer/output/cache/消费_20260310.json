@@ -1,0 +1,48 @@
+{
+  "industry": "消费",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: index 0 is out of bounds for axis 0 with size 0"
+  },
+  "sentiment": {
+    "news_count": 5,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 4,
+    "sentiment_score": 20.0,
+    "sentiment_label": "略偏多",
+    "key_events": [
+      "监管动态"
+    ],
+    "latest_news": [
+      {
+        "source": "财联社",
+        "title": "又一科创综指ETF获批 上交所：将丰富科创板指数和ETF品类",
+        "url": "https://api3.cls.cn/share/article/2308417?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【又一科创综指ETF获批 上交所：将丰富科创板指数和ETF品类】财联社3月10日电，近日，又一科创综指ETF获批，将于近期在上交所发行上市。自2025年1月20日正式发布以来至2026年2月底，境内已...",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "泰康人寿启动“3·15”消保活动：践行商业向善，守护安心消费\n\t\t\t\t\t来源：环球网 【环球网保险综合报道】日前，泰康人寿积极响应监管号召，全面启动2026年“3·15”金融消费者权益保护教育宣传活动...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t环球网\n                        \t\t\t\t\t\n                        \t\t\t\t4分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t董明珠：低价是对消费者的伤害\n\t\t\t\t\t3月10日，格力电器董事长董明珠接受采访时表示，低价常伴随品质缩水，后续维修成本高，伤害消费者。产品用料应明码实价，铝空调、铜空调各标其价，让消费者清楚选择才是行业正道。业内人士称，消费升级下，消费者需要透明诚信消费环境。推动家电产品“铜铝分标、明码实价”，是保障消费者权益、倒逼行业回归品质竞争的治本之策，构建良性产业生态，让“中国制造”凭品质获长久信赖。 (AI生成)\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t财经头条\n                        \t\t\t\t\t\n                        \t\t\t\t9分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t黑龙江省大庆市市场监管局开展“黄金饰品”消费体察活动\n\t\t\t\t\t3月10日，黑龙江省大庆市市场监督管理局约谈各黄金饰品售卖企业负责人，指出消费体察中发现的问题并要求整改。2月27日至3月2日，该局对20余家黄金珠宝专柜开展消费体察，检查计量器具等，宣传计量法律法规等知识，对临近有效期电子天平现场检定。约谈中强调多项注意事项，包括黄金饰品须符合质量标准，明确标注关键信息，不得虚假宣传、价格欺诈，确保价格合理，无欺诈行为，电子天平及配套砝码须每年检定合格。 (AI生成)\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t中国质量新闻网\n                        \t\t\t\t\t\n                        \t\t\t\t9分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t刘木华委员：多措并举激发农村消费潜力",
+        "url": "https://finance.sina.com.cn/roll/2026-03-10/doc-inhqnvws0077356.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "广西桂林启动“3·15”系列活动硬核护航消费品质升级\n\t\t\t\t\t自3月起，广西桂林市市场监管局、桂林市消费者协会将围绕“提升消费品质”主题，陆续推出多项硬核举措，构建“政府监管、企业自律、社会监督、群众参与”的多方协同维权格局，为全市消费市场高质量发展保驾护航...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t中国质量新闻网\n                        \t\t\t\t\t\n                        \t\t\t\t17分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t山东省宁阳县市场监管局严把化妆品质量关 护航消费安全",
+        "url": "https://finance.sina.com.cn/jjxw/2026-03-10/doc-inhqnvwn6256543.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "政策监管风险"
+  ]
+}

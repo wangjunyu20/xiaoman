@@ -1,0 +1,53 @@
+{
+  "industry": "AI医疗",
+  "date": "2026-03-11",
+  "market_data": {
+    "error": "行情获取失败: index 0 is out of bounds for axis 0 with size 0"
+  },
+  "sentiment": {
+    "news_count": 4,
+    "positive": 0,
+    "negative": 1,
+    "neutral": 3,
+    "sentiment_score": -25.0,
+    "sentiment_label": "略偏空",
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "两会建言｜全国政协委员王建安：要“以患者为中心”筑牢医疗AI安全底座",
+        "url": "https://t.cj.sina.com.cn/articles/view/1650111241/625ab30902001fv2a",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "两会热点追踪｜人均预期寿命提高到80岁，AI+医疗如何服务老年人？ \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t【#两会热点追踪#｜人均预期寿命提高到80岁，AI+医疗如何服务老年人。】#如何让智慧医疗更好服务老年人# 今年全国两会，代表委员们热议“人均预期寿命提高到80岁”这一目标...\n\t\t\t\t\t新华网   3小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t代表委员激辩AI医疗：技术狂飙下的冷思考与热交锋",
+        "url": "https://k.sina.com.cn/article_2810373291_ma782e4ab03302teeg.html",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "医生视角下的AI医疗：有益但不可过度依赖\n\t\t\t\t\t如今，人们可以在任何地方找到健康建议，无论这些建议的可信度或医学专业性如何。这种信息获取便利性的增加改变了人们与医疗专业人士的互动方式，甚至影响了他们对医生的信任程度...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t微资讯\n                        \t\t\t\t\t\n                        \t\t\t\t6小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t全国两会聚焦AI医疗“下基层”，多方献策破解落地与应用难题",
+        "url": "https://news.sina.cn/ai/2026-03-10/detail-inhqpaer6234657.d.html",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "美好医疗(301363.SZ)：AI眼镜目前相关探索仍处于研发阶段，尚未形成直接相关的产品收入\n\t\t\t\t\t3月10日格隆汇消息，美好医疗(301363.SZ)在互动平台称，公司持续探索精密加工与AI技术的产品融合，AI眼镜是规划方向之一。不过，目前相关探索还处于研发阶段，未形成直接相关的产品收入，提醒投资者注意风险。 (AI生成)\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t格隆汇\n                        \t\t\t\t\t\n                        \t\t\t\t3小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\t同心会客厅丨全国政协委员赵宏谈AI医疗：AI可以成为副驾驶，方向盘得握在人的手里 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t“AI可以成为副驾驶，但方向盘得握在人的手里。”全国政协委员、中国医学科学院肿瘤医院主任医师赵宏在中新网“同心会客厅”专访时如是说...\n\t\t\t\t\t中国新闻网   3小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t（全国两会）刘云委员建议破解“AI+医疗”优质应用供给不足难题",
+        "url": "https://finance.sina.com.cn/stock/bxjj/2026-03-10/doc-inhqphnp6194756.shtml",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "利空"
+      }
+    ]
+  },
+  "causal_analysis": "AI医疗板块 (+0.00%) - 完整因果推导\n\n第一步：技术进步引发关注\n近期技术进步等因素引发市场对该行业的关注。\n\n第二步：资金开始布局\n机构资金开始关注该板块，逐步建立仓位。\n\n第三步：市场情绪升温\n随着相关新闻增多，市场对该行业的情绪逐步升温。\n\n第四步：估值逻辑重塑\n市场对该行业的估值逻辑发生变化，从悲观转向乐观。\n\n第五步：资金持续流入\n在趋势确认后，更多资金跟风买入，推动板块下跌。\n\n第六步：板块最终下跌0.00%\n在多重因素共同作用下，板块最终下跌0.00%。",
+  "risks": [
+    "市场风险"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "industry": "脑机接口",
+  "date": "2026-03-11",
+  "market_data": {
+    "error": "行情获取失败: index 0 is out of bounds for axis 0 with size 0"
+  },
+  "sentiment": {
+    "news_count": 6,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 5,
+    "sentiment_score": 16.67,
+    "sentiment_label": "略偏多",
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "谁会想到沙漏加花盆是创新啊，换我大脑已经宕机了 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t谁会想到沙漏加花盆是创新啊，换我大脑已经宕机了...\n\t\t\t\t\t千里茶香sunny   4小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\t英军当年的脑洞设计，超低底盘运送机枪组 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t英军当年的脑洞设计，超低底盘运送机枪组...\n\t\t\t\t\t铁血军魂哨所   4小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t事关脑机接口发展！江苏九部门印发重磅行动方案",
+        "url": "https://k.sina.com.cn/article_7879924026_m1d5ae193a03302thta.html",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "两会建言｜全国政协委员王建安：顶尖医院要担当脑机接口科技攻关“主力军”",
+        "url": "https://t.cj.sina.com.cn/articles/view/1650111241/625ab30902001fv1y",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "20米，成都打通脑机接口成果转化的最短距离",
+        "url": "https://k.sina.com.cn/article_6105713761_16bedcc6102001zb72.html",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "网友自嘲智商下降称脑子宕机 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t傻傻的一天 感觉今天智商直线下降脑子宕机ahhh…...\n\t\t\t\t\t静待花开舞蝶   3小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\t发年终奖后买“机械革命” 男子称万元电脑频繁闪退玩游戏被封 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t【发年终奖后买“机械革命”#男子称万元电脑频繁闪退玩游戏被封#】#1818黄金眼天天都是315# 浙江杭州，钟先生反映，2月中旬，他发年终奖后去买了一台一万多元的机械革命电脑，...\n\t\t\t\t\t1818黄金眼   3小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t江苏瞄准脑机接口，重磅发布",
+        "url": "https://k.sina.com.cn/article_7879923696_m1d5ae17f0033022rlk.html",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "两会校长说｜天津大学明东：脑机接口正处于迈向产业化的临界点",
+        "url": "https://finance.sina.com.cn/jjxw/2026-03-10/doc-inhqphnh6181253.shtml",
+        "publish_time": "2026-03-11",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "causal_analysis": "脑机接口板块 (+0.00%) - 完整因果推导\n\n第一步：行业基本面变化引发关注\n近期行业基本面变化等因素引发市场对该行业的关注。\n\n第二步：资金开始布局\n机构资金开始关注该板块，逐步建立仓位。\n\n第三步：市场情绪升温\n随着相关新闻增多，市场对该行业的情绪逐步升温。\n\n第四步：估值逻辑重塑\n市场对该行业的估值逻辑发生变化，从悲观转向乐观。\n\n第五步：资金持续流入\n在趋势确认后，更多资金跟风买入，推动板块下跌。\n\n第六步：板块最终下跌0.00%\n在多重因素共同作用下，板块最终下跌0.00%。",
+  "risks": [
+    "市场风险"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "industry": "量子科技",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: index 0 is out of bounds for axis 0 with size 0"
+  },
+  "sentiment": {
+    "news_count": 6,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 5,
+    "sentiment_score": 16.67,
+    "sentiment_label": "略偏多",
+    "key_events": [],
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "把量子科技“卡点”转化为发展“支点”\n\t\t\t\t\t“量子通信持续保持国际领先，量子计算稳居国际第一方阵，量子精密测量的多个方向跃进了国际先进行列。“关键核心技术要不来也等不来，只要我们坚定信心、自主创新，发挥新型举国体制优势，就一定能够把‘卡点’转化为发展的‘支点’...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t热点聚焦\n                        \t\t\t\t\t\n                        \t\t\t\t3小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t量子科技：大国博弈新阵地（附图片）",
+        "url": "https://k.sina.com.cn/article_5952915705_162d248f906702lbie.html",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "量子科技的三大方向（附图片）",
+        "url": "https://finance.sina.com.cn/roll/2026-03-10/doc-inhqmysy3499882.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "两会热议量子科技 中国电信锚定国家战略新方向\n\t\t\t\t\t3月5日，政府工作报告中指出，过去一年我国发展向新向优，新质生产力稳步发展，科技创新成果丰硕，人工智能、生物医药、机器人、量子科技等领域研发应用处于世界前列...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\tC114通信网\n                        \t\t\t\t\t\n                        \t\t\t\t2026-03-09 11:18:00\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t量子科技板块大幅调整，禾信仪器等跌停\n\t\t\t\t\t量子科技板块大幅调整，禾信仪器、亨通光电、ST达华跌停，罗博特科、光库科技跌超10%，腾景科技、光迅科技、富士达、银轮股份等跟跌...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t界面新闻\n                        \t\t\t\t\t\n                        \t\t\t\t2026-03-09 09:56:06\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t【公告全知道】智能电网+储能+算力+量子科技+芯片！公司是国内唯一具有输变电一次设备成套生产制造能力的企业",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-03-09/doc-inhqizzr3785916.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。主要关注量子计算、量子通信等因素。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "市场风险"
+  ]
+}

@@ -1,0 +1,16 @@
+# 忽略敏感配置文件
+.github_token
+.env
+*.env
+
+# 忽略输出和临时文件
+output/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.zip
+
+# 忽略 node_modules
+node_modules/
+

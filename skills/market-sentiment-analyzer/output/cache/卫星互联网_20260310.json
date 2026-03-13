@@ -1,0 +1,48 @@
+{
+  "industry": "卫星互联网",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: '日k'"
+  },
+  "sentiment": {
+    "news_count": 6,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 5,
+    "sentiment_score": 16.67,
+    "sentiment_label": "略偏多",
+    "key_events": [
+      "政策影响"
+    ],
+    "latest_news": [
+      {
+        "source": "新浪财经",
+        "title": "《计划报告》科技新词“三问三答” | 低轨卫星互联网星座 \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t转自：国家发展改革委《计划报告》科技新词“三问三答” | 低轨卫星互联网星座  ​...\n\t\t\t\t\t国家发改委网站   2026-03-09 14:45:49\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t美格智能发布行业首款低轨宽带卫星互联网模组 预计第四季度实现试商用\n\t\t\t\t\t二是频段与带宽革新。这一设计彻底突破了传统窄带卫星物联网（通常仅10kbps级速率）的传输限制，使得高速数据传输成为可能...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\tC114通信网\n                        \t\t\t\t\t\n                        \t\t\t\t2026-03-09 11:12:00\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t商业航天、卫星互联网、新兴支柱产业",
+        "url": "https://video.sina.com.cn/p/finance/2026-03-09/detail-inhqknrm3643690.d.html",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "天银机电(300342.SZ)：子公司上海讯析科技的低轨互联网卫星信号地面处理设备也可应用于航天类业务\n\t\t\t\t\t格隆汇3月9日丨天银机电(300342.SZ)在投资者互动平台表示，子公司天银星际是国内商业运营的恒星敏感器生产厂商，除恒星敏感器外，天银星际还有太阳敏感器、姿态控制模块等产品应用于卫星...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t格隆汇\n                        \t\t\t\t\t\n                        \t\t\t\t2026-03-09 21:09:09\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t卫星互联网筑基“智能经济”新形态",
+        "url": "https://finance.sina.com.cn/stock/bxjj/2026-03-09/doc-inhqmcpp6820972.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      },
+      {
+        "source": "新浪财经",
+        "title": "商业航天、卫星互联网、信维通信",
+        "url": "https://k.sina.com.cn/article_5953466437_162dab0450670a5tny.html",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。主要关注低轨等因素。近期技术突破。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "市场风险"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "industry": "6G",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: index 0 is out of bounds for axis 0 with size 0"
+  },
+  "sentiment": {
+    "news_count": 7,
+    "positive": 4,
+    "negative": 1,
+    "neutral": 2,
+    "sentiment_score": 42.86,
+    "sentiment_label": "偏多",
+    "key_events": [],
+    "latest_news": [
+      {
+        "source": "财联社",
+        "title": "3月10日连板股分析：连板股晋级率不足二成 算力硬件股大面积反弹",
+        "url": "https://api3.cls.cn/share/article/2308416?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【3月10日连板股分析：连板股晋级率不足二成 算力硬件股大面积反弹】今日共56股涨停，连板股总数6只，其中三连板及以上个股2只，上一交易日共11只连板股，连板股晋级率18.18%（不含ST股、退市股）...",
+        "impact": "利好"
+      },
+      {
+        "source": "财联社",
+        "title": "今日投资舆情热点",
+        "url": "https://api3.cls.cn/share/article/2308408?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【今日投资舆情热点】\n1）光通信：AOI宣布，收到2亿美元1.6T首批量产订单，标志着新一代高速光互联产品正式进入规模化商用阶段。\n2）PCB：MGC宣布，自4月1日起覆铜板、预浸料及背胶铜箔的价格统...",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "我国6G研发正在加速推进 已启动第二阶段6G技术试验\n\t\t\t\t\t据悉，当前我国6G研发正在加速推进，已启动第二阶段6G技术试验，形成超300项关键技术储备，标志着6G研发从“关键技术验证”迈入“技术方案集成与原型样机研发”的深水区...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t观点地产网\n                        \t\t\t\t\t\n                        \t\t\t\t52分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t英伟达宣布将AI导入6G无线网络 鼎信通讯、长江通信等多股涨停\n\t\t\t\t\t同时，在2026年世界移动通信大会期间，华为发布U6GHz全场景系列产品与解决方案，英伟达（NVDA.US）宣布与诺基亚、软银等公司合作将人工智能导入6G无线网络...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t实时速报\n                        \t\t\t\t\t\n                        \t\t\t\t53分钟前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t6G网要来了：全域互联时代启幕，中国领跑下一代通信革命",
+        "url": "https://finance.sina.com.cn/stock/estate/integration/2026-03-10/doc-inhqnvwt6254757.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。主要关注研发、试验等因素。近期个股涨停带动情绪。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "市场风险"
+  ]
+}

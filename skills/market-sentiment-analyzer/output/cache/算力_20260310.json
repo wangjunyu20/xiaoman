@@ -1,0 +1,48 @@
+{
+  "industry": "算力",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: '日k'"
+  },
+  "sentiment": {
+    "news_count": 4,
+    "positive": 2,
+    "negative": 0,
+    "neutral": 2,
+    "sentiment_score": 50.0,
+    "sentiment_label": "偏多",
+    "key_events": [
+      "业绩发布"
+    ],
+    "latest_news": [
+      {
+        "source": "财联社",
+        "title": "3月10日连板股分析：连板股晋级率不足二成 算力硬件股大面积反弹",
+        "url": "https://api3.cls.cn/share/article/2308416?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【3月10日连板股分析：连板股晋级率不足二成 算力硬件股大面积反弹】今日共56股涨停，连板股总数6只，其中三连板及以上个股2只，上一交易日共11只连板股，连板股晋级率18.18%（不含ST股、退市股）...",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "A股高开高走，沪指收复4100点：算力硬件题材爆发，超4500股上涨",
+        "url": "https://finance.sina.com.cn/jjxw/2026-03-10/doc-inhqnvwt6255539.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "创业板50ETF华安（159949）放量成交12亿领跑同类 机构：把握算力链窗口",
+        "url": "https://finance.sina.com.cn/money/fund/original/2026-03-10/doc-inhqnvws0058218.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "中性"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "业绩不确定性"
+  ]
+}

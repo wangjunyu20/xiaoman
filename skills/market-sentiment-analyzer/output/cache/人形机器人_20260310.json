@@ -1,0 +1,48 @@
+{
+  "industry": "人形机器人",
+  "date": "2026-03-10",
+  "market_data": {
+    "error": "行情获取失败: '日k'"
+  },
+  "sentiment": {
+    "news_count": 9,
+    "positive": 3,
+    "negative": 0,
+    "neutral": 6,
+    "sentiment_score": 33.33,
+    "sentiment_label": "偏多",
+    "key_events": [
+      "业绩发布"
+    ],
+    "latest_news": [
+      {
+        "source": "财联社",
+        "title": "3月10日连板股分析：连板股晋级率不足二成 算力硬件股大面积反弹",
+        "url": "https://api3.cls.cn/share/article/2308416?os=web&sv=8.4.6&app=CailianpressWeb",
+        "publish_time": "",
+        "summary": "【3月10日连板股分析：连板股晋级率不足二成 算力硬件股大面积反弹】今日共56股涨停，连板股总数6只，其中三连板及以上个股2只，上一交易日共11只连板股，连板股晋级率18.18%（不含ST股、退市股）...",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "德州仪器与英伟达合作加速人形机器人安全部署",
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-03-10/doc-inhqnvwn6236654.shtml",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      },
+      {
+        "source": "新浪财经",
+        "title": "何小鹏：并非所有车企都能顺利转型为人形机器人企业\n\t\t\t\t\t格隆汇3月10日｜据每经，“政府前瞻性地看到了人工智能不仅可以和数字经济结合，在智能终端上还有更多的可能。当数字世界的AI能力和物理世界中移动的汽车、机器人等硬件相结合，将会催生出‘物理AI（人工智能）’，意味着机器人将逐步拥有理解、交互和改变世界的能力，这将对生产力、生产关系产生颠覆性的改变...\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t格隆汇APP\n                        \t\t\t\t\t\n                        \t\t\t\t3小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t港股异动 | 兆威机电(02692)涨超9%创新高  上市首日即入通 灵巧手产品切入人形机器人产业\n\t\t\t\t\t兆威机电(02692)上市次日涨超9%，高见84.55港元创新高，截至发稿涨9.66%，报80.05港元，成交额2.12亿港元。3月9日起，其获调入港股通名单。按2024年收入计，公司是中国最大、全球第四大一体化微型传动与驱动系统产品提供商，市场份额分别为3.9%及1.4%。产品包括传动、微电机等系统及注塑件，下游涵盖汽车、医疗等领域。2025年7月发布新一代灵巧手，2025年1 - 9月具身智能板块业务收入1553万元、同比+281%，率先实现规模化销售，人形机器人产业有望成新业绩增长点。 (AI生成)\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t智通财经网\n                        \t\t\t\t\t\n                        \t\t\t\t4小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t人形机器人概念持续走强，首开股份涨停\n\t\t\t\t\t凌玮科技涨超10%，万凯新材、聚杰微纤、锋龙股份、强瑞技术、沃尔德等股票跟涨。 (AI生成)\n\t\t\t\t\t\n                        \t\t\t\t\t\n                        \t\t\t\t\t\t界面新闻\n                        \t\t\t\t\t\n                        \t\t\t\t5小时前\n\t\t\t\t\n\t\t\t\n\t\t\t\n\r\n        \r\n\r\n        \r\n        \r\n            \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t人形机器人概念局部活跃 首开股份涨停",
+        "url": "https://cj.sina.com.cn/articles/view/5115326071/130e5ae7702002t6ii",
+        "publish_time": "2026-03-10",
+        "summary": "",
+        "impact": "利好"
+      }
+    ]
+  },
+  "reasoning": "板块受利好消息提振。近期个股涨停带动情绪，业绩预期向好。建议关注后续政策面和资金面变化，把握结构性机会。",
+  "risks": [
+    "业绩不确定性"
+  ]
+}
